@@ -1,0 +1,3 @@
+# transformar el model yang en un formato arbol
+  pyang -f tree ietf-interfaces.yang
+
